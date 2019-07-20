@@ -16,6 +16,7 @@ export default {
       // 方案3 改变key值  即可刷新
       // this.list[position] = "555";
       // this.keyId = Math.random()+''
+      
 
       // 方案4  宇宙最强！  JSON.parse(JSON.stringify())
       this.list[position] = "555";
